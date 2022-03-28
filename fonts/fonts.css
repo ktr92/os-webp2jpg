@@ -1,0 +1,125 @@
+
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Futura PT Book';
+    src: url('FuturaPT-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+/*
+
+@font-face {
+    font-family: 'Futura PT Cond';
+    src: url('FuturaPTCond-BoldObl.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-BoldObl.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura PT Cond Extra Bold Ital';
+    src: url('FuturaPTCond-ExtraBoldObl.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-MediumObl.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-LightObl.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Futura PT Cond';
+    src: url('FuturaPTCond-MediumObl.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura PT Demi';
+    src: url('FuturaPT-DemiObl.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura PT Extra';
+    src: url('FuturaPT-ExtraBoldObl.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Futura PT Book';
+    src: url('FuturaPT-BookObl.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura PT';
+    src: url('FuturaPT-HeavyObl.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura PT Cond Book';
+    src: url('FuturaPTCond-BookObl.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
